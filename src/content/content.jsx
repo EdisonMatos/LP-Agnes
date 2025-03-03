@@ -102,7 +102,7 @@ const content = {
         </h1>
       ),
       subtitle:
-        "Garantimos a proteção de seus direitos, enfrentando abusos e lutando por uma justiça justa e acessível.",
+        "Garanta seus direitos trabalhistas mesmo sem registro em carteira.",
       heroImg: heroImg,
       ctaButtonText: "Entre em contato",
       obsHero: {
