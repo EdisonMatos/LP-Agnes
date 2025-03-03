@@ -94,7 +94,7 @@ const content = {
       ctaButtonTextResponsive: "Contato",
     },
     hero: {
-      miniTag: "ADVOGADA TRABALHISTA EM PORTO VELHO - RO",
+      miniTag: "ATENDIMENTO ONLINE EM TODO BRASIL",
       title: (
         <h1 className="mb-[16px]">
           Defendendo seus direitos
