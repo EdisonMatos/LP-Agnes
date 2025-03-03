@@ -97,8 +97,8 @@ const content = {
       miniTag: "ATENDIMENTO ONLINE EM TODO BRASIL",
       title: (
         <h1 className="mb-[16px]">
-          Defendendo seus direitos
-          <span className="text-primary"> como trabalhador!</span>
+          Trabalhou sem carteira assinada?
+          <span className="text-primary">  Não perca seus direitos trabalhistas!</span>
         </h1>
       ),
       subtitle:

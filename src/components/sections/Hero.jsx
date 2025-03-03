@@ -5,7 +5,7 @@ import { FaWhatsapp } from "react-icons/fa";
 
 const whatsappContactLink = `${content.texts.links.ctaWhatsapp}`;
 
-export default function Hero({ appDownloadButtons }) {
+export default function Hero({ appDownloadButtons, obs="true" }) {
   return (
     <div
       className="w-full bg-center bg-repeat font-mainFont bg-gradient-to-b from-black to-bgSectionDark "
@@ -46,7 +46,7 @@ export default function Hero({ appDownloadButtons }) {
                     icon={<FaWhatsapp size={24} />}
                   />
                 </div>
-                <MotionDivDownToUp>
+                {obs && (<MotionDivDownToUp>
                   <div className="flex justify-center desktop1:justify-start">
                     <div className="flex flex-col items-center desktop1:flex-row text-primary">
                       {content.texts.hero.obsHero.icon}
@@ -55,7 +55,7 @@ export default function Hero({ appDownloadButtons }) {
                       </p>
                     </div>
                   </div>
-                </MotionDivDownToUp>
+                </MotionDivDownToUp>)}
                 {appDownloadButtons && (
                   <MotionDivDownToUp>
                     <div className="flex flex-col items-center desktop1:items-start">
