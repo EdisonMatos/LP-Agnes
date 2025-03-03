@@ -175,7 +175,7 @@ const content = {
         img: featuresImg1,
         title: "Reconhecimento de vínculo empregatício",
         subtitle:
-          "Garantindo seus direitos quando o trabalho sem registro se torna injusto.",
+          "Garantindo seus direitos quando se trabalha sem registro.",
         description: (
           <div>
             A_Definir
