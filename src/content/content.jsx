@@ -913,7 +913,7 @@ const content = {
     },
     infos: {
       phone: `(${infos.phone.ddd}) ${infos.phone.firstPart}-${infos.phone.secondPart}`,
-      email: `${infos.email}@${infos.domain}`,
+      email: `agnessouzaadv@hotmail.com`,
       adress: infos.endereco,
       officeHours: infos.expediente,
       year: currentYear,
