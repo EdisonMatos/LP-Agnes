@@ -94,15 +94,15 @@ const content = {
       ctaButtonTextResponsive: "Contato",
     },
     hero: {
-      miniTag: "ADVOGADA TRABALHISTA EM PORTO VELHO - RO",
+      miniTag: "ATENDIMENTO ONLINE EM TODO BRASIL",
       title: (
         <h1 className="mb-[16px]">
-          Defendendo seus direitos
-          <span className="text-primary"> como trabalhador!</span>
+          Trabalhou sem carteira assinada?
+          <span className="text-primary">  Não perca seus direitos trabalhistas!</span>
         </h1>
       ),
       subtitle:
-        "Garantimos a proteção de seus direitos, enfrentando abusos e lutando por uma justiça justa e acessível.",
+        "Garanta seus direitos trabalhistas mesmo sem registro em carteira.",
       heroImg: heroImg,
       ctaButtonText: "Entre em contato",
       obsHero: {
@@ -175,7 +175,7 @@ const content = {
         img: featuresImg1,
         title: "Reconhecimento de vínculo empregatício",
         subtitle:
-          "Garantindo seus direitos quando o trabalho sem registro se torna injusto.",
+          "Garantindo seus direitos quando se trabalha sem registro.",
         description: (
           <div>
             A_Definir
@@ -913,7 +913,7 @@ const content = {
     },
     infos: {
       phone: `(${infos.phone.ddd}) ${infos.phone.firstPart}-${infos.phone.secondPart}`,
-      email: `${infos.email}@${infos.domain}`,
+      email: `agnessouzaadv@hotmail.com`,
       adress: infos.endereco,
       officeHours: infos.expediente,
       year: currentYear,
