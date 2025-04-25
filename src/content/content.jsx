@@ -97,15 +97,15 @@ const content = {
       miniTag: "ATENDIMENTO ONLINE EM TODO BRASIL",
       title: (
         <h1 className="mb-[16px]">
-          Trabalhou sem carteira assinada?
+          Seus direitos no trabalho
           <span className="text-primary">
             {" "}
-            Não perca seus direitos trabalhistas!
+            estão sendo desrespeitados?
           </span>
         </h1>
       ),
       subtitle:
-        "Garanta seus direitos trabalhistas mesmo sem registro em carteira.",
+        "Descubra como pedir a rescisão indireta e sair do emprego com todos os seus direitos garantidos!",
       heroImg: heroImg,
       ctaButtonText: "Entre em contato",
       obsHero: {
